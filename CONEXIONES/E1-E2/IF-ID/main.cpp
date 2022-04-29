@@ -17,7 +17,7 @@ int sc_main (int argv, char* argc[])
     ProgramCounter PC("PC");
     Adder ADD("ADD");
     RegisterFile RF("RF");
-    SignalExpand SE ("SE"); //Expansion del entero. 
+    SignalExpand SE ("SE"); //Extension de signo. 
     TestPrint TP("TP");
     PrintSignal PS("PS");
 
