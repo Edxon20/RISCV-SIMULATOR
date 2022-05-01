@@ -17,7 +17,7 @@
         sc_in< sc_uint<5> > rs2;  
         sc_out<sc_int<32>> aOut, bOut;     //Salidas estas son de los datos que ya estan registrados en storage
         sc_in<bool> clkIn;
-        sc_int<32> storage[30];//Hace referencia del 0/31
+        sc_int<32> storage[32];//Hace referencia del 0/31
     };      
 
 #endif
