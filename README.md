@@ -1,5 +1,6 @@
 # RISCV-SIMULATOR
 Simulador completo de un procesador con la arquitectura RISC-V en C++ utilizando System_C
+https://www.youtube.com/watch?v=JyvZ0i9s6xg&list=PLSUmB2yTypWGcPlfTymmaQ3HWxvamxfoW Video presentacion 28/04
 
 ## Compilar y Ejecutar
 Para ejecutar el Simulador, se debe tener la version 2.3.3 de System_C instalado en el compoutador
