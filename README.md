@@ -5,7 +5,7 @@ Simulador completo de un procesador con la arquitectura RISC-V en C++ utilizando
 Para ejecutar el Simulador, se debe tener la version 2.3.3 de System_C instalado en el compoutador
 Desde el directorio donde se encuentra el archivo main.cpp y el archivo makefile
 
-https://www.youtube.com/watch?v=JyvZ0i9s6xg&list=PLSUmB2yTypWGcPlfTymmaQ3HWxvamxfoW Video presentacion 28/04
+https://youtu.be/F8WTABI8ri0 Video presentacion 28/04
 
     make
     make run
